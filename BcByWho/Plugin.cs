@@ -8,7 +8,7 @@ namespace BcByWho
     public class Plugin : Plugin<Config>
     {
         public static Plugin Singleton;
-        public override string Author => "An4r3w";
+        public override string Author => "LaFesta1749";
         public override string Name => "BcByWho";
         public override Version Version => new Version(1, 0, 0);
 
